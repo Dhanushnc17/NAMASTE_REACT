@@ -1,0 +1,20 @@
+/*
+
+#heading {
+  color: purple;
+}
+
+*/
+
+#child1 {
+  color: purple;
+}
+
+#child2 {
+  color: pink;
+}
+
+.not-effected {
+  color: skyblue;
+  text-decoration: underline;
+}
