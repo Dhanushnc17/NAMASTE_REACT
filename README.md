@@ -1,2 +1,1 @@
-# NAMASTE_REACT
-This is the React Repository
+# React Project
