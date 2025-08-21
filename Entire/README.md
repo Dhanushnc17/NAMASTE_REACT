@@ -24,4 +24,4 @@
 
 - Composing components into one another or simply Putting components inside other components
   <br>
-  - JSX sanitizes the data that we pass in that prevents cross site scripting
+- JSX sanitizes the data that we pass in that prevents cross site scripting
